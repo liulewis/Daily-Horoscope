@@ -129,4 +129,3 @@ export default function Home() {
     </div>
   );
 }
-import { useEffect } from 'react';
