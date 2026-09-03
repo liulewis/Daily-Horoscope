@@ -15,7 +15,7 @@
 ## 🚀 在线体验
 
 ### Vercel 部署
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/daily-fortune)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/liulewis/Daily-Horoscope)
 
 项目已优化支持 Vercel 一键部署，包含：
 - 自动构建配置
