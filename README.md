@@ -45,7 +45,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/liulewis/Daily-Horoscope.git
    cd daily-fortune
    ```
 
